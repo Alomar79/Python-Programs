@@ -1,4 +1,3 @@
-# Student name:  Najla_Alkhater  -    QUID: 201409664
 
 def main():
     sentence = str(input('Please Enter a Sentence so I can fix it: '))
