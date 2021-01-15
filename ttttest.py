@@ -1,0 +1,1 @@
+print ('Location: '.ljust(40) + 'Revision: 1')

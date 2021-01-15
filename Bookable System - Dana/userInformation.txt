@@ -1,0 +1,3 @@
+JoinDate 		 Name  	BirthYear	 Age	Gender 	  Budget 	  Medium   	 Genres  	 Edit Date
+27/11/2020,03:07:12	awad	2001	19	male	125.0	Both-digital-and-physical-books	Etiquette_&_Entertaining	27/11/2020,03:09:14
+27/11/2020,03:07:46	samar	1999	21	female	26.0	E-books	World_Atlases__World_Maps	27/11/2020,03:08:38

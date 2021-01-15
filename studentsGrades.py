@@ -1,0 +1,10 @@
+Alii	5	7	8	6.67
+Ahmad	9	8	6	7.67
+Samer	5	4	4	4.33
+Daad	6	8	9	7.67
+hani	8	7	8	7.67
+salem	3	3	3	3.00
+fahad	6	5	6	5.67
+nahla	8	7	4	6.33
+huda	9	7	5	7.00
+lyla	5	8	9	7.33
