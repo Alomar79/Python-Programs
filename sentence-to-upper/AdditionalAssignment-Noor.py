@@ -1,5 +1,3 @@
-# Name : Noor AlNajjar
-# QU ID: 201901316
 
 def main():
     # ask user to enter the sentence to fix
