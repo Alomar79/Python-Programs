@@ -1,3 +1,0 @@
-Join Date  	  Name 	Height	Weight	BirthYear	Age	Gender	BMI	BMI-range	BMR	Activity	TEE	Allergies	Edit Date
-20/11/2020,20:13:59	Fadya	1.68	54.0	1999	21	male	19.13	Normal	1507.62	4	2600.64	oat,coconut	20/11/2020,21:21:31
-20/11/2020,21:19:01	salam	1.9	44.0	2000	20	male	12.19	Underweight	1486.94	5	2825.19	nutmeg	21/11/2020,12:44:27
