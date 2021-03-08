@@ -1,6 +1,0 @@
-qatarId 	 personName 	 birthDate 	 address 	 N-Residents 	 ex-Symptoms 	 symptomsComment 	 COVIDtest
-111222	nadya	06.12.02	alwaab1	6	Y	gggggg	negative
-444555	ali	03.06.98	alwaab2	4	N	 - 	positive
-888999	samya	02.01.77	alwaab3	2	Y	ppppp	positive
-333777	leen	05.09.02	alwaab4	4	N	 - 	positive
-444111	hani	12.11.99	alwaab5	5	N	 - 	positive

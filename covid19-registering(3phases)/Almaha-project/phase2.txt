@@ -1,5 +1,0 @@
-ID 	 Name 	insurance	insurance_plan	Admission_date	staying_way	room_no	medicine_cost	medicine_name	register_date	doctors_name
-888999	samya	y	Prestige	12/11/20	Suite	4	44.5	tttttt	23.11.20	hasan
-333777	leen	n	None	04/06/20	Room	13	66.0	ooyyyttt	23.11.20	yaser
-444555	ali	n	None	4/07/20	Room	10	77.0	rrrr	23.11.20	pppp
-444111	hani	y	Normal	15/3/19	Room	5	144.0	kkk4	23.11.20	essam
