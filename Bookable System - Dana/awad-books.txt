@@ -1,2 +1,0 @@
-Sesion_num 	 book_Title 	 total-prices 	 average_prices
-1 ; Spectral America : Phantoms and the National Imagination,The Divining Rod : Water Witching,Producing and the Theatre Business,The Beauty of Space : Living in Minimal Style,Ebola Facts and Fears,Ralph Breaks the Internet Read-Along Storybook and CD ; 765.35 ; 127.56
